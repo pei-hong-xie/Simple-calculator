@@ -14,36 +14,13 @@ typedef struct {
     Node* top;
 } Stack;
 
+Stack* InitStack_LinkList();
+void push_LinkList(Stack* s, double e);
+int pop_LinkList(Stack* s);
+double GetTop_LinkList(Stack* s);
+void Delete_LinkList(Stack* s);
 
-Stack* InitStack();
-void push(Stack* s, double e);
-int pop(Stack* s);
-double GetTop(Stack* s);
-void Delete(Stack* s);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+void Ans_Link_List();
 
 #endif // !__Link_List_H
 
