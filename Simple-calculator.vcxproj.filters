@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="链表Demo.cpp">
+    <ClCompile Include="Simple-calculator.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="LinkListcpp.cpp">
@@ -24,12 +24,24 @@
     <ClCompile Include="cmp.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="SequenceList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LinkList.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="cmp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SequenceList.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
