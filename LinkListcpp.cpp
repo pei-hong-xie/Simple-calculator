@@ -130,7 +130,8 @@ double computer_LinkList(char* buffer) {
     }
     if (ch != '=' && ch != '\n') { // 输入不以等号或换行符结尾，显示输入错误信息并结束程序
         printf("输入错误: 输入未完成\n");
-        exit(EXIT_FAILURE);
+        return -1;
+        //exit(EXIT_FAILURE);
     }
     s = GetTop_LinkList(num); // 获取计算结果
     pop_LinkList(ope);

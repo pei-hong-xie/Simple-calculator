@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "草稿", "草稿.vcxproj", "{68472052-C59D-4550-A394-95179DF751D3}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Simple-calculator", "Simple-calculator.vcxproj", "{68472052-C59D-4550-A394-95179DF751D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +26,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {FA8A5F2C-880D-4B40-A240-7AB5980D3AA3}
+		SolutionGuid = {CA052F1A-F274-439E-9E65-53A83555A6CA}
 	EndGlobalSection
 EndGlobal
