@@ -2,8 +2,6 @@
 #define __SequenceList_H
 
 
-#define extern MAX_SIZE 100
-
 typedef struct {
 	double* top;
 	double* base;
